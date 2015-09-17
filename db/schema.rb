@@ -1,4 +1,3 @@
-# encoding: UTF-8
 ActiveRecord::Schema.define(version: 20150901081947) do
 
   create_table "users", force: :cascade do |t|
